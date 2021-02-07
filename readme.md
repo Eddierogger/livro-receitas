@@ -3,8 +3,7 @@
 
 
 
-## Olá, bem vindo ao meu livro de receitas
+## OlÃ¡, bem vindo ao meu livro de receitas
 
 - Strogonoff de frango :chicken:
-- Pavê :ice_cream:
-- 
+- PavÃª :ice_cream:
