@@ -7,3 +7,4 @@
 
 - Strogonoff de frango :chicken:
 - Pavê :ice_cream:
+-  Bolo de cenoura :cake
